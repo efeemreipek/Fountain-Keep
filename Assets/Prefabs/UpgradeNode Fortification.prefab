@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4657799994866076756
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 5793688122219061965, guid: 97a5ca639c96c2a45945d5361d60bf3c,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5793688122219061965, guid: 97a5ca639c96c2a45945d5361d60bf3c,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5793688122219061965, guid: 97a5ca639c96c2a45945d5361d60bf3c,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5793688122219061965, guid: 97a5ca639c96c2a45945d5361d60bf3c,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5793688122219061965, guid: 97a5ca639c96c2a45945d5361d60bf3c,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5793688122219061965, guid: 97a5ca639c96c2a45945d5361d60bf3c,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5793688122219061965, guid: 97a5ca639c96c2a45945d5361d60bf3c,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5793688122219061965, guid: 97a5ca639c96c2a45945d5361d60bf3c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5793688122219061965, guid: 97a5ca639c96c2a45945d5361d60bf3c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5793688122219061965, guid: 97a5ca639c96c2a45945d5361d60bf3c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6000389141441608371, guid: 97a5ca639c96c2a45945d5361d60bf3c,
+        type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 586ab2161ddbecc4a83e6e53daf00a9d, type: 2}
+    - target: {fileID: 6942752786279348469, guid: 97a5ca639c96c2a45945d5361d60bf3c,
+        type: 3}
+      propertyPath: upgradeType
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6942752786279348469, guid: 97a5ca639c96c2a45945d5361d60bf3c,
+        type: 3}
+      propertyPath: interactText
+      value: Upgrade Building Fortification
+      objectReference: {fileID: 0}
+    - target: {fileID: 6942752786279348469, guid: 97a5ca639c96c2a45945d5361d60bf3c,
+        type: 3}
+      propertyPath: buildingCost.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6942752786279348469, guid: 97a5ca639c96c2a45945d5361d60bf3c,
+        type: 3}
+      propertyPath: buildingCost.Array.data[0].Cost
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6942752786279348469, guid: 97a5ca639c96c2a45945d5361d60bf3c,
+        type: 3}
+      propertyPath: buildingCost.Array.data[1].Cost
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6942752786279348469, guid: 97a5ca639c96c2a45945d5361d60bf3c,
+        type: 3}
+      propertyPath: buildingCost.Array.data[2].Cost
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6942752786279348469, guid: 97a5ca639c96c2a45945d5361d60bf3c,
+        type: 3}
+      propertyPath: buildingCost.Array.data[0].ResourceType
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6942752786279348469, guid: 97a5ca639c96c2a45945d5361d60bf3c,
+        type: 3}
+      propertyPath: buildingCost.Array.data[1].ResourceType
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6942752786279348469, guid: 97a5ca639c96c2a45945d5361d60bf3c,
+        type: 3}
+      propertyPath: buildingCost.Array.data[2].ResourceType
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 8756847963824783521, guid: 97a5ca639c96c2a45945d5361d60bf3c,
+        type: 3}
+      propertyPath: m_Name
+      value: UpgradeNode Fortification
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 97a5ca639c96c2a45945d5361d60bf3c, type: 3}
